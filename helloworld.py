@@ -7,8 +7,8 @@ print(x)
 print(y)
 
 summ = x+y
-print "Sum =",summ
-print "Average =", float(summ)/2
+print ("Sum =",summ)
+print ("Average =", float(summ)/2)
 
 
 
